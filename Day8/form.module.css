@@ -1,0 +1,36 @@
+.form
+{
+
+    width: 30%;
+   background-color: #fff;
+}
+#lbl1 , #lbl2,#lbl3
+{
+    display: block;
+    margin: 5px 0 10px 15px;
+
+}
+Field
+{
+    display: block;
+    margin: 5px 0 10px 15px;
+    padding: 7px;
+    width: 154px;
+}
+#btn
+{
+    margin-top: 20px;
+    width: 171px; 
+    border-radius: 7px;
+    background-color: #c4e0ed47;
+    
+}
+#Fdiv{
+    border: 2px solid rgb(49, 179, 205) ;
+    width: 15%;
+    padding: 20px;
+}
+#Invalid{
+color: red;
+
+}
